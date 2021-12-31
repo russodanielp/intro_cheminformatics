@@ -42,7 +42,7 @@ Learning about web retrieval services and how to access chemistry databases via 
 #TODO: Maybe write a notebook that can be run on any dataset 
 
 11) Pharmacophores
-Generating pharmacophores 
+Generating pharmacophores using a ligand based approach for EGFR receptor
 
 12) Structural based drug discovery
 The use of commercial cheminformatics tool-CASE Ultra
