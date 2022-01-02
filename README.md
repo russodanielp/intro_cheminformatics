@@ -36,13 +36,14 @@ The basics of supervised machine learning and developing quantitative structure 
 
 9) Data science in chemistry
 Learning about web retrieval services and how to access chemistry databases via programmatic interfaces.
-# TODO: Need to finish.  
+#TODO: Need to finish.  
 
 10) Predictive modeling
-# TODO: Maybe write a notebook that can be run on any dataset?  Not sure what needs to be done here just yet.  
+#TODO: Maybe write a notebook that can be run on any dataset?  Not sure what needs to be done here just yet.  
 
 11) Pharmacophores
 Generating pharmacophores using a ligand based approach for EGFR receptor
 
 12) Structural-based Drug Discovery
 The use of commercial cheminformatics tool-CASE Ultra
+#TODO: Also need to finish.  
