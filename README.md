@@ -36,7 +36,6 @@ The basics of supervised machine learning and developing quantitative structure 
 
 9) Data science in chemistry
 Learning about web retrieval services and how to access chemistry databases via programmatic interfaces.
-#TODO: Need to finish.  
 
 10) Predictive modeling
 #TODO: Maybe write a notebook that can be run on any dataset?  Not sure what needs to be done here just yet.  
