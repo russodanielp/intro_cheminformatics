@@ -16,33 +16,33 @@ A set of notebooks showing introduction to Python using rdkit,
 Teach structure annotations: ChemBioOffice, SMILE, SDF and etc. First homework assignment
 #TODO: This is empty
 
-3) Basic python
-Practicing python programming. Second paper assignment (graduate students only)
-#TODO: Need to fill in the empties and maybe come up with some stuff on matplotlib
+3) Basic Python, Pandas and matplotlib
+Introducet the basics of programming using the Python language.  Introduce popular data science and visualization packages, Pandas and matplotlib.
 
 5) Advanced python and RDKit 
-An introduction the cheminformatics Python module RDKit
+A brief introduction to Objects in Python.  Introduction to the cheminformatics Python library RDKit.
 
 4) Molecular Descriptors 
-Generating chemical descriptors - explores the basics of generting molecular descriptors and chemical fingerprints  
+Generating chemical descriptors - explores the basics of generting molecular descriptors and chemical fingerprints.
 
-6) Chemical similarity
-The basics of chemical similarities using different metrics and descriptor spaces  
+6) Chemical Similarity
+The basics of chemical similarities using different metrics and descriptor spaces.
 
 7) Machine Learning Part I - Unsupervised ML
-The basics of unsupervised machine learning, including principal component analysis and chemical clustering  
+The basics of unsupervised machine learning, including principal component analysis and chemical clustering. 
 
 8) Machine Learning Part I - QSAR
 The basics of supervised machine learning and developing quantitative structure activity relationship (QSAR) models
 
 9) Data science in chemistry
-Learning about web retrieval services and how to access chemistry databases via programmatic interfaces.  
+Learning about web retrieval services and how to access chemistry databases via programmatic interfaces.
+# TODO: Need to finish.  
 
 10) Predictive modeling
-#TODO: Maybe write a notebook that can be run on any dataset 
+# TODO: Maybe write a notebook that can be run on any dataset?  Not sure what needs to be done here just yet.  
 
 11) Pharmacophores
 Generating pharmacophores using a ligand based approach for EGFR receptor
 
-12) Structural based drug discovery
+12) Structural-based Drug Discovery
 The use of commercial cheminformatics tool-CASE Ultra
