@@ -16,3 +16,4 @@ dependencies:
   - smina=2017.11.9
   - py3dmol=1.7.
   - nglview=3.0.3
+  - chembl_webresource_client
