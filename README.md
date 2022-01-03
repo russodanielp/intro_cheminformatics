@@ -46,3 +46,6 @@ Generating pharmacophores using a ligand based approach for EGFR receptor
 12) Structural-based Drug Discovery
 The use of commercial cheminformatics tool-CASE Ultra
 #TODO: Also need to finish.  
+
+13) Deep Learning 
+Develop a deep learning model using data provided from the NICEATM acute oral toxicity challenge.
