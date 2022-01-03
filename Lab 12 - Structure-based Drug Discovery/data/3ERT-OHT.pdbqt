@@ -1,0 +1,68 @@
+REMARK  Name = 3ERT-OHT.pdb
+REMARK  10 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_8
+REMARK    2  A    between atoms: C4_4  and  O4_5
+REMARK    3  A    between atoms: C7_8  and  C8_9
+REMARK    4  A    between atoms: C7_8  and  C17_18
+REMARK    5  A    between atoms: C8_9  and  C9_10
+REMARK    6  A    between atoms: C8_9  and  C11_12
+REMARK    7  A    between atoms: C20_21  and  O20_22
+REMARK    8  A    between atoms: O20_22  and  C23_25
+REMARK    9  A    between atoms: C23_25  and  C24_26
+REMARK   10  A    between atoms: C24_26  and  N24_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C7  OHT A 600      30.708  -1.057  27.065  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   1   2
+ATOM      2  C1  OHT A 600      29.210  -1.233  27.016  0.00  0.00    +0.000 A 
+ATOM      3  C2  OHT A 600      28.609  -2.490  26.695  0.00  0.00    +0.000 A 
+ATOM      4  C3  OHT A 600      27.215  -2.613  26.605  0.00  0.00    +0.000 A 
+ATOM      5  C4  OHT A 600      26.409  -1.482  26.835  0.00  0.00    +0.000 A 
+ATOM      6  C5  OHT A 600      26.992  -0.235  27.156  0.00  0.00    +0.000 A 
+ATOM      7  C6  OHT A 600      28.375  -0.134  27.239  0.00  0.00    +0.000 A 
+BRANCH   5   8
+ATOM      8  O4  OHT A 600      25.058  -1.622  26.722  0.00  0.00    +0.000 OA
+ATOM      9  H01 OHT A 600      24.719  -2.087  27.490  0.00  0.00    +0.000 HD
+ENDBRANCH   5   8
+ENDBRANCH   1   2
+BRANCH   1  10
+ATOM     10  C17 OHT A 600      31.411  -1.690  25.945  0.00  0.00    +0.000 A 
+ATOM     11  C18 OHT A 600      32.529  -2.496  26.146  0.00  0.00    +0.000 A 
+ATOM     12  C19 OHT A 600      33.182  -3.114  25.117  0.00  0.00    +0.000 A 
+ATOM     13  C20 OHT A 600      32.725  -2.944  23.820  0.00  0.00    +0.000 A 
+ATOM     14  C21 OHT A 600      31.601  -2.135  23.579  0.00  0.00    +0.000 A 
+ATOM     15  C22 OHT A 600      30.966  -1.528  24.626  0.00  0.00    +0.000 A 
+BRANCH  13  16
+ATOM     16  O20 OHT A 600      33.296  -3.554  22.740  0.00  0.00    +0.000 OA
+BRANCH  16  17
+ATOM     17  C23 OHT A 600      32.900  -3.183  21.423  0.00  0.00    +0.000 C 
+BRANCH  17  18
+ATOM     18  C24 OHT A 600      34.059  -3.508  20.520  0.00  0.00    +0.000 C 
+BRANCH  18  19
+ATOM     19  N24 OHT A 600      34.109  -4.887  20.118  0.00  0.00    +0.000 NA
+ATOM     20  C25 OHT A 600      33.390  -5.111  18.863  0.00  0.00    +0.000 C 
+ATOM     21  C26 OHT A 600      35.506  -5.291  19.922  0.00  0.00    +0.000 C 
+ENDBRANCH  18  19
+ENDBRANCH  17  18
+ENDBRANCH  16  17
+ENDBRANCH  13  16
+ENDBRANCH   1  10
+BRANCH   1  22
+ATOM     22  C8  OHT A 600      31.363  -0.388  28.059  0.00  0.00    +0.000 C 
+BRANCH  22  23
+ATOM     23  C11 OHT A 600      32.788   0.053  27.962  0.00  0.00    +0.000 A 
+ATOM     24  C12 OHT A 600      33.707  -0.188  28.976  0.00  0.00    +0.000 A 
+ATOM     25  C13 OHT A 600      35.027   0.270  28.897  0.00  0.00    +0.000 A 
+ATOM     26  C14 OHT A 600      35.451   0.980  27.799  0.00  0.00    +0.000 A 
+ATOM     27  C15 OHT A 600      34.559   1.235  26.776  0.00  0.00    +0.000 A 
+ATOM     28  C16 OHT A 600      33.241   0.782  26.842  0.00  0.00    +0.000 A 
+ENDBRANCH  22  23
+BRANCH  22  29
+ATOM     29  C9  OHT A 600      30.702  -0.023  29.372  0.00  0.00    +0.000 C 
+ATOM     30  C10 OHT A 600      30.574   1.465  29.550  0.00  0.00    +0.000 C 
+ENDBRANCH  22  29
+ENDBRANCH   1  22
+TORSDOF 10
