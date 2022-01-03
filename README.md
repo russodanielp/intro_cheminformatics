@@ -32,7 +32,7 @@ The basics of chemical similarities using different metrics and descriptor space
 The basics of unsupervised machine learning, including principal component analysis and chemical clustering. 
 
 8) Machine Learning Part I - QSAR
-The basics of supervised machine learning and developing quantitative structure activity relationship (QSAR) models
+The basics of supervised machine learning and developing quantitative structure activity relationship (QSAR) models.  Develop classification and regression models on a set of benzodiazipines. 
 
 9) Data science in chemistry
 Learning about web retrieval services and how to access chemistry databases via programmatic interfaces.
