@@ -9,7 +9,7 @@ This repository contains a set of notebooks (organized into seperate topics by l
 
 After conda is properly installed, a new conda environment for these notebooks can be created by the command:
 ```bash
-conda env create -f environment.yml -n intro-chem 
+conda env create -f environment.yml
 ```
 The environment can then be activated by:
 ```bash
