@@ -28,7 +28,7 @@ jupyter notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD)
 
-Alternatively, the notebooks can be run on a server via binder by clicking the above binder tag or opening them up [here](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD).  
+Alternatively, the notebooks can be run on a server via binder by clicking the above binder tag or opening them up [here](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD).  
 
 
 ## Overview
