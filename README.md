@@ -24,7 +24,7 @@ or
 jupyter notebook
 ```
 
-## Running the notebooks locally
+## Running the notebooks on a sever
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD)
 
