@@ -21,3 +21,4 @@ dependencies:
   - torchaudio=0.10.1
   - torchvision=0.11.2
   - chembl_webresource_client
+  - py3dmol
