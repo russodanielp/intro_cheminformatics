@@ -1,13 +1,37 @@
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD)
+
 
 # Introduction
 
+This repository contains a set of notebooks showing introduction to cheminformatics in the Python programming language.  Introductions to programming and the Python programming language are included.  The notebooks rely on a set of both Python and other packages listed in the `environmental.yml`.  Thus, installing a Python environment using [conda](https://docs.conda.io/en/latest/) is required.  Conda installation can be done as described on the [conda website](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
+
+## Running the notebooks locally
+
+After conda is properly installed, a new conda environment for these notebooks can be created by the command:
+```bash
+conda env create -f environment.yml -n intro-chem 
+```
+The environment can then be activated by:
+```bash
+conda activate intro-chem
+```
+And the notebooks can be opened via:
+```bash
+jupyter lab
+```
+or 
+```bash
+jupyter notebook
+```
+
+## Running the notebooks locally
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD)
+
+Alternatively, the notebooks can be run on a server via binder by clicking the above binder tag or opening them up [here](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD).  
 
 
 ## Overview
-
-A set of notebooks showing introduction to Python using rdkit, 
 
 1) Course Introduction  
 #TODO: This is empty
