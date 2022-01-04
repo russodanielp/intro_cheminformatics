@@ -1,4 +1,4 @@
-REMARK  Name = 3ERT-OHT.pdb
+REMARK  Name = data/3ERT-OHT.pdb
 REMARK  10 active torsions:
 REMARK  status: ('A' for Active; 'I' for Inactive)
 REMARK    1  A    between atoms: C1_1  and  C7_8
