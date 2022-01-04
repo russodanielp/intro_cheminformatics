@@ -6,7 +6,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - babel=2.9.1
   - jupyter=1.0.0
   - jupyterlab=3.2.1
   - matplotlib=3.5.0
@@ -20,5 +19,7 @@ dependencies:
   - smina=2017.11.9
   - torchaudio=0.10.1
   - torchvision=0.11.2
-  - chembl_webresource_client
   - py3dmol
+  - chembl_webresource_client
+  - openbabel
+  - mols2grid
