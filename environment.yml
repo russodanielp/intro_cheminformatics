@@ -23,3 +23,4 @@ dependencies:
   - chembl_webresource_client
   - openbabel
   - mols2grid
+  - plotly=3.6.1
