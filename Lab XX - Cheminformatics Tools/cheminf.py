@@ -11,9 +11,8 @@ import pandas as pd, numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 
-
-import plotly.graph_objects as go
-import plotly.express as px
+from plotly import graph_objs as go
+import plotly.express as pxy
 
 DATA_DIR = 'data'
 
