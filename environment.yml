@@ -16,7 +16,6 @@ dependencies:
   - scikit-learn=1.0.1
   - scipy=1.7.1
   - seaborn=0.11.2
-  - smina=2017.11.9
   - torchaudio=0.10.1
   - torchvision=0.11.2
   - py3dmol
