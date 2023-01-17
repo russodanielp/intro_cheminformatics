@@ -43,12 +43,12 @@ Teach structure annotations: ChemBioOffice, SMILE, SDF and etc. First homework a
 #TODO: This is empty
 
 3) Basic Python, Pandas and matplotlib  
-Introducet the basics of programming using the Python language.  Introduce popular data science and visualization packages, Pandas and matplotlib.
+Introduce the basics of programming using the Python language.  Introduce popular data science and visualization packages, Pandas and matplotlib.
 
-5) Advanced python and RDKit   
+4) Advanced python and RDKit   
 A brief introduction to Objects in Python.  Introduction to the cheminformatics Python library RDKit.
 
-4) Molecular Descriptors   
+5) Molecular Descriptors   
 Generating chemical descriptors - explores the basics of generting molecular descriptors and chemical fingerprints.
 
 6) Chemical Similarity  
@@ -64,14 +64,10 @@ The basics of supervised machine learning and developing quantitative structure 
 Learning about web retrieval services and how to access chemistry databases via programmatic interfaces.
 
 10) Predictive modeling  
-#TODO: Maybe write a notebook that can be run on any dataset?  Not sure what needs to be done here just yet.  
+Develop your own QSAR models and make predictions.
 
 11) Pharmacophores  
 Generating pharmacophores using a ligand based approach for EGFR receptor
 
-12) Structural-based Drug Discovery  
-The use of commercial cheminformatics tool-CASE Ultra
-  
-
-13) Deep Learning   
+12) Deep Learning   
 Develop a deep learning model using data provided from the NICEATM acute oral toxicity challenge.
