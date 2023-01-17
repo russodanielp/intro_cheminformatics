@@ -23,13 +23,15 @@ or
 ```bash
 jupyter notebook
 ```
-
+<!---
+This is where bind will go when i get it up and running
 ## Running the notebooks on a sever
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD)
 
 Alternatively, the notebooks can be run on a server via binder by clicking the above binder tag or opening them up [here](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD).  
 
+-->
 
 ## Overview
 
