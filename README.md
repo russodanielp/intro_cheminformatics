@@ -1,9 +1,16 @@
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/russodanielp/intro_cheminformatics/HEAD)
+
+
 
 # Introduction
 
 This repository contains a set of notebooks (organized into seperate topics by lab) for an introduction to cheminformatics in the Python programming language.  Introductions to programming using the Python programming language are included.  The notebooks rely on a set of both dependecies Python and other packages listed in the `environmental.yml`.  Thus, installing a Python environment using [conda](https://docs.conda.io/en/latest/) is required.  Conda installation can be done as described on the [conda website](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).  Some notebooks are taken from the incredible [Teach Open Computer-aided Drug Design](https://github.com/volkamerlab/teachopencadd) course.  However, notebooks in this repository are geared to noive programmers.  
+
+## Running the notebooks on a sever
+
+These noteboks can be run a server by clicking the Binder tag above.  However, all changes to the notebooks (e.g., your work) and therefore is only recommended as a temporary solution.  
 
 ## Running the notebooks locally
 
